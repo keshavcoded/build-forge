@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import Navbar from "./components/Navbar";
 
 function App() {
-
   return (
-    <div className='text-2xl font-semibold'>
-      Build forge home
-    </div>
-  )
+    <main className="overflow-x-hidden antialiased text-neutral-800">
+      <Navbar />
+    </main>
+  );
 }
 
-export default App
+export default App;
