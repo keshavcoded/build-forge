@@ -1,5 +1,5 @@
 import hero from "../assets/hero.jpg";
-import preBuiltImage from "../assets/pre-built.jpg";
+import preBuiltImage from "../assets/prebuilt.jpg";
 import customPc from "../assets/custom-pc.jpg";
 import gamingLaptop from "../assets/gaming-lap.png";
 import workStation from "../assets/work-station.jpg";
