@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className="max-w-7xl mx-auto">
       <div className="flex flex-col items-center my-50">
-        <h1 className="text-4xl lg:text-8xl p-2 font-bold text-center">
+        <h1 className="text-4xl lg:text-7xl p-2 font-bold text-center">
           {HERO_CONTENT.title1}{" "}
           <span className="text-[rgb(110,110,115)]">{HERO_CONTENT.title2}</span>
         </h1>

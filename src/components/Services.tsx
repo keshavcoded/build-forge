@@ -3,7 +3,7 @@ import { SERVICES_CONTENT } from "../constants";
 const Services = () => {
   return (
     <section className="max-w-7xl mx-auto scroll-mt-30" id="services">
-      <div className="my-30">
+      <div className="my-20">
         <h2 className="text-2xl lg:text-4xl tracking-tight text-center mb-12">
           Our services
         </h2>

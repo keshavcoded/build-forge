@@ -4,7 +4,7 @@ import { BEST_BUILDS } from "../constants";
 const Builds = () => {
   return (
     <section className="max-w-7xl mx-auto scroll-mt-30" id="builds">
-      <div className="my-30">
+      <div className="my-20">
         <h2 className="text-2xl lg:text-4xl tracking-tight text-center mt-20 mb-12">
           Our Best Builds
         </h2>
